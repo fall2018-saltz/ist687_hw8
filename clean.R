@@ -1,4 +1,5 @@
 
 clean_data <- raw_data
 library('rjson')
-df <- fromJSON("hotelSurveySherison.json")
+a <-hotelSurveySherison.json
+#df <- fromJSON("hotelSurveySherison.json")
